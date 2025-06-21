@@ -7,8 +7,6 @@ function App() {
     return (
         <div>
             <h1>Polar Bear</h1>
-            
         </div>
-    )
-
+    );
 }
